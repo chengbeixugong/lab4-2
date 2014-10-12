@@ -40,8 +40,8 @@ class Model extends Observable implements Runnable {
        this.xMax = xMax;
        this.yMax = yMax;
        reset();
-       int m=10,n=0;
-       n=m%3;
+       //int m=10,n=0;
+       //n=m%3;
    }
 
    public void reset(){

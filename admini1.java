@@ -29,7 +29,7 @@ public class admini1 extends JFrame implements ActionListener {
 		//
 		int j=0;
 		j=7;
-		int i=j-5;
+		//int i=j-5;
 		getContentPane().setLayout(new BorderLayout());
 		getContentPane().add("North", display);
 		getContentPane().add("Center", panelInput);
